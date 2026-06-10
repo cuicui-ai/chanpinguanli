@@ -1,0 +1,6 @@
+{
+  "name": "产品管理系统",
+  "description": "产品展示与人工排序管理系统，支持按产品名称或代码搜索、新增专户产品、上下线操作以及多种交互排序调整。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
